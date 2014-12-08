@@ -10,11 +10,11 @@ The value of "w" decided the stability of the system. We had to plot the positio
 
 Here is a plot of the system when it's stable, with Omega equal to 150:
 
-![Stable](stable_pendulum.png)
+![Stable](pendulum_stable.png)
 
 Here's a plot of the system when it's unstable, with Omega equal to 110:
 
-![unstable](unstable_pendulum.png)
+![unstable](pendulum_unstable.png)
 
 The following is the point at which the system seems to go from unstable to stable, at 144.5:
 
